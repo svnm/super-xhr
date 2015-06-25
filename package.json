@@ -1,0 +1,20 @@
+{
+  "name": "super-xhr",
+  "version": "0.0.1",
+  "description": "super clean ajax requets",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/super-xhr.git"
+  },
+  "author": "Steven Iseki",
+  "license": "MIT",
+  "homepage": "https://github.com/StevenIseki/super-xhr.git",
+  "keywords": [
+    "ajax",
+    "super-xhr",
+    "xhr",
+    "request",
+    "ajax request"
+  ]
+}
